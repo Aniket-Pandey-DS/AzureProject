@@ -1,0 +1,15 @@
+{
+	"name": "df-azureprojectap",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6be4f07-17b3-44a6-85c1-f4471d0a4159",
+		"tenantId": "43132557-4636-42fb-a3cf-ebecbc99a8ae"
+	}
+}
